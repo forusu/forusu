@@ -1,6 +1,7 @@
 ### Hi!
 
 I am a security specialist, photographer, astrophysicist and a webdeveloper.
+I can translate to Russian and English.
 
 ### Socials
 
