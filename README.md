@@ -1,8 +1,8 @@
-### Hi!
+### About me
 
-I am a hobbyist security specialist, photographer, astrophysicist and a webdeveloper.
-I can translate to Russian and English if needed.
-I speak 4 languages: Russian, Serbian, English and German.
+* I am a hobbyist security specialist, photographer, astrophysicist and a webdeveloper.
+* I can translate to Russian and English if needed.
+* I speak 4 languages: Russian, Serbian, English and German.
 
 ### Socials
 
