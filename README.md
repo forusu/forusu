@@ -1,13 +1,14 @@
 ### Hi!
 
-I am a security specialist, photographer, astrophysicist and a webdeveloper.
-I can translate to Russian and English.
+I am a hobbyist security specialist, photographer, astrophysicist and a webdeveloper.
+I can translate to Russian and English if needed.
+I speak 4 languages: Russian, Serbian, English and German.
 
 ### Socials
 
 * https://twitter.com/forusu
 * https://steamcommunity.com/id/kkzts
-* fsq#7375
+* artifice#7375
 
 ### Projects
 
