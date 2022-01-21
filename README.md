@@ -1,6 +1,6 @@
 ### About me
 
-![A figure with an umbrella](fsq.jpg)
+![Barcode](fsq.jpg)
 
 ---
 
