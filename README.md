@@ -1,5 +1,7 @@
 ### About me
 
+![A figure with an umbrella](https://forusu.github.io/madewithlove-site/images/prp.webp)
+
 * I am a **hobbyist security specialist, photographer, astrophysicist and a webdeveloper.**
 * I can translate to **Russian** and **English** if needed.
 * I speak 4 languages: **Russian, Serbian, English** and **German**.
@@ -10,9 +12,9 @@
 
 * https://twitter.com/forusu
 * https://steamcommunity.com/id/kkzts
-* artifice#7375
+* finesse#7375 (or any other beautiful word that I happen to use as my moniker at a given time)
 
 ### Projects
 
-* https://madewithlove.top - My website
+* https://forusu.github.io/madewithlove-site - My website
 * https://blog.madewithlove.top - My blog
