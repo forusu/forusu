@@ -1,6 +1,6 @@
 ### About me
 
-<center>![A figure with an umbrella](https://forusu.github.io/madewithlove-site/images/prp.webp)</center>
+![A figure with an umbrella](https://forusu.github.io/madewithlove-site/images/prp.webp)
 
 * I am a **hobbyist security specialist, photographer, astrophysicist and a webdeveloper.**
 * I can translate to **Russian** and **English** if needed.
