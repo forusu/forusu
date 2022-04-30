@@ -22,3 +22,4 @@
 
 * https://forusu.github.io/madewithlove-site - My website
 * https://blog.madewithlove.top - My blog
+* https://forusu.github.io/fsq-friends/ - A hyperspace for me and my friends!
