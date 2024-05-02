@@ -4,7 +4,7 @@
 
 ---
 
-* I am an **undergraduate in corporate security, photographer, hobbyist astrophysicist, weather forecaster and a webdeveloper.**
+* I am an **undergraduate in ND crisis management and corporate security, photographer, hobbyist astrophysicist, weather forecaster and a webdeveloper.**
 * I can translate to and from **Russian** and **English**.
 * I speak 4 languages: **Russian, Serbian, English** and **German**, currently learning **Japanese** and **Finnish**.
 * I have worked on two constructed languages: **Fisse** and **Yana**
