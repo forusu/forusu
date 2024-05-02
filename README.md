@@ -15,7 +15,7 @@
 
 ### Socials
 
-* https://twitter.com/fsqs\_
+* https://twitter.com/fsqs_
 * https://steamcommunity.com/id/kakuzetsu-thanatos
 * @fsqs on discord
 
